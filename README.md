@@ -2,7 +2,10 @@
 This is a repository to record the algorithm &amp; coding learning 
 
 ## Books
-
+- Learning Algorithms Through Programming and Puzzle - by Alexander Kulikov and Pavel Pevzner
+- Cracking the Coding Interview: 150 Programming Interview Questions and Solutions - by Gayle Laakmann
+- 我的第一本算法书 - by 石田保辉
+  
 ## Course
 Data Structures and Algorithms Specialization
 https://www.coursera.org/specializations/data-structures-algorithms
